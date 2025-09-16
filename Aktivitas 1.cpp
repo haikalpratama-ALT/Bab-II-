@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	int angka = 10; // Deklarasi beberapa variabel
-	float desimal = 6.9;
+	float desimal = 5.5;
 	char  karakter = 'A';
 	// Deklarasi beberapa variabel integer dalam satu baris
 	int a = 1, b = 2, c=3;
@@ -15,3 +15,4 @@ int main() {
 	cout << "Nilai c: " << c << endl;
 	return 0;
 }
+
